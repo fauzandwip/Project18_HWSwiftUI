@@ -17,6 +17,7 @@
 		7B23E6182A7D39B400FC2DF9 /* GeometryReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6172A7D39B400FC2DF9 /* GeometryReaderView.swift */; };
 		7B23E61A2A7D407400FC2DF9 /* ScrollViewEffectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6192A7D407400FC2DF9 /* ScrollViewEffectsView.swift */; };
 		7B23E61D2A7D508100FC2DF9 /* Challenge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E61C2A7D508100FC2DF9 /* Challenge1.swift */; };
+		7B23E6212A7D525F00FC2DF9 /* Challenge2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6202A7D525F00FC2DF9 /* Challenge2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		7B23E6172A7D39B400FC2DF9 /* GeometryReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderView.swift; sourceTree = "<group>"; };
 		7B23E6192A7D407400FC2DF9 /* ScrollViewEffectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewEffectsView.swift; sourceTree = "<group>"; };
 		7B23E61C2A7D508100FC2DF9 /* Challenge1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge1.swift; sourceTree = "<group>"; };
+		7B23E6202A7D525F00FC2DF9 /* Challenge2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			isa = PBXGroup;
 			children = (
 				7B23E61C2A7D508100FC2DF9 /* Challenge1.swift */,
+				7B23E6202A7D525F00FC2DF9 /* Challenge2.swift */,
 			);
 			path = Challenges;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 				7B23E60F2A7BF26A00FC2DF9 /* AlignmentView.swift in Sources */,
 				7B23E6012A7BE61E00FC2DF9 /* LayoutAndGeometryApp.swift in Sources */,
 				7B23E61A2A7D407400FC2DF9 /* ScrollViewEffectsView.swift in Sources */,
+				7B23E6212A7D525F00FC2DF9 /* Challenge2.swift in Sources */,
 				7B23E6182A7D39B400FC2DF9 /* GeometryReaderView.swift in Sources */,
 				7B23E61D2A7D508100FC2DF9 /* Challenge1.swift in Sources */,
 			);
