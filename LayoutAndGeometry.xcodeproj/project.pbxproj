@@ -15,6 +15,7 @@
 		7B23E6142A7D1FBB00FC2DF9 /* CustomAlignmentGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6132A7D1FBB00FC2DF9 /* CustomAlignmentGuideView.swift */; };
 		7B23E6162A7D33C500FC2DF9 /* positionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6152A7D33C500FC2DF9 /* positionView.swift */; };
 		7B23E6182A7D39B400FC2DF9 /* GeometryReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6172A7D39B400FC2DF9 /* GeometryReaderView.swift */; };
+		7B23E61A2A7D407400FC2DF9 /* ScrollViewEffectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6192A7D407400FC2DF9 /* ScrollViewEffectsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		7B23E6132A7D1FBB00FC2DF9 /* CustomAlignmentGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlignmentGuideView.swift; sourceTree = "<group>"; };
 		7B23E6152A7D33C500FC2DF9 /* positionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = positionView.swift; sourceTree = "<group>"; };
 		7B23E6172A7D39B400FC2DF9 /* GeometryReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderView.swift; sourceTree = "<group>"; };
+		7B23E6192A7D407400FC2DF9 /* ScrollViewEffectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewEffectsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				7B23E6132A7D1FBB00FC2DF9 /* CustomAlignmentGuideView.swift */,
 				7B23E6152A7D33C500FC2DF9 /* positionView.swift */,
 				7B23E6172A7D39B400FC2DF9 /* GeometryReaderView.swift */,
+				7B23E6192A7D407400FC2DF9 /* ScrollViewEffectsView.swift */,
 			);
 			path = Introduction;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				7B23E6032A7BE61E00FC2DF9 /* ContentView.swift in Sources */,
 				7B23E60F2A7BF26A00FC2DF9 /* AlignmentView.swift in Sources */,
 				7B23E6012A7BE61E00FC2DF9 /* LayoutAndGeometryApp.swift in Sources */,
+				7B23E61A2A7D407400FC2DF9 /* ScrollViewEffectsView.swift in Sources */,
 				7B23E6182A7D39B400FC2DF9 /* GeometryReaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
