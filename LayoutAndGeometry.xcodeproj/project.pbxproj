@@ -16,6 +16,7 @@
 		7B23E6162A7D33C500FC2DF9 /* positionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6152A7D33C500FC2DF9 /* positionView.swift */; };
 		7B23E6182A7D39B400FC2DF9 /* GeometryReaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6172A7D39B400FC2DF9 /* GeometryReaderView.swift */; };
 		7B23E61A2A7D407400FC2DF9 /* ScrollViewEffectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6192A7D407400FC2DF9 /* ScrollViewEffectsView.swift */; };
+		7B23E61D2A7D508100FC2DF9 /* Challenge1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E61C2A7D508100FC2DF9 /* Challenge1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		7B23E6152A7D33C500FC2DF9 /* positionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = positionView.swift; sourceTree = "<group>"; };
 		7B23E6172A7D39B400FC2DF9 /* GeometryReaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderView.swift; sourceTree = "<group>"; };
 		7B23E6192A7D407400FC2DF9 /* ScrollViewEffectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewEffectsView.swift; sourceTree = "<group>"; };
+		7B23E61C2A7D508100FC2DF9 /* Challenge1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				7B23E6002A7BE61E00FC2DF9 /* LayoutAndGeometryApp.swift */,
 				7B23E6022A7BE61E00FC2DF9 /* ContentView.swift */,
+				7B23E61B2A7D507B00FC2DF9 /* Challenges */,
 				7B23E6122A7D1F9300FC2DF9 /* Introduction */,
 				7B23E6042A7BE62000FC2DF9 /* Assets.xcassets */,
 				7B23E6062A7BE62000FC2DF9 /* Preview Content */,
@@ -88,6 +91,14 @@
 				7B23E6192A7D407400FC2DF9 /* ScrollViewEffectsView.swift */,
 			);
 			path = Introduction;
+			sourceTree = "<group>";
+		};
+		7B23E61B2A7D507B00FC2DF9 /* Challenges */ = {
+			isa = PBXGroup;
+			children = (
+				7B23E61C2A7D508100FC2DF9 /* Challenge1.swift */,
+			);
+			path = Challenges;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -167,6 +178,7 @@
 				7B23E6012A7BE61E00FC2DF9 /* LayoutAndGeometryApp.swift in Sources */,
 				7B23E61A2A7D407400FC2DF9 /* ScrollViewEffectsView.swift in Sources */,
 				7B23E6182A7D39B400FC2DF9 /* GeometryReaderView.swift in Sources */,
+				7B23E61D2A7D508100FC2DF9 /* Challenge1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
