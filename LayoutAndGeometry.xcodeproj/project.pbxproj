@@ -13,6 +13,7 @@
 		7B23E6082A7BE62000FC2DF9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B23E6072A7BE62000FC2DF9 /* Preview Assets.xcassets */; };
 		7B23E60F2A7BF26A00FC2DF9 /* AlignmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E60E2A7BF26A00FC2DF9 /* AlignmentView.swift */; };
 		7B23E6142A7D1FBB00FC2DF9 /* CustomAlignmentGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6132A7D1FBB00FC2DF9 /* CustomAlignmentGuideView.swift */; };
+		7B23E6162A7D33C500FC2DF9 /* positionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B23E6152A7D33C500FC2DF9 /* positionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		7B23E6072A7BE62000FC2DF9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7B23E60E2A7BF26A00FC2DF9 /* AlignmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlignmentView.swift; sourceTree = "<group>"; };
 		7B23E6132A7D1FBB00FC2DF9 /* CustomAlignmentGuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlignmentGuideView.swift; sourceTree = "<group>"; };
+		7B23E6152A7D33C500FC2DF9 /* positionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = positionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				7B23E60E2A7BF26A00FC2DF9 /* AlignmentView.swift */,
 				7B23E6132A7D1FBB00FC2DF9 /* CustomAlignmentGuideView.swift */,
+				7B23E6152A7D33C500FC2DF9 /* positionView.swift */,
 			);
 			path = Introduction;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B23E6162A7D33C500FC2DF9 /* positionView.swift in Sources */,
 				7B23E6142A7D1FBB00FC2DF9 /* CustomAlignmentGuideView.swift in Sources */,
 				7B23E6032A7BE61E00FC2DF9 /* ContentView.swift in Sources */,
 				7B23E60F2A7BF26A00FC2DF9 /* AlignmentView.swift in Sources */,
